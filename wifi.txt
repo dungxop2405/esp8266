@@ -1,2 +1,2 @@
-ssid:Dung.xop
-pass:dungxop95
+Dung.xop
+dungxop95
